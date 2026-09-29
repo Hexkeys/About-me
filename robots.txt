@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hexkeys.github.io/About-me/sitemap.xml
